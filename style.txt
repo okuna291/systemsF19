@@ -1,0 +1,16 @@
+#container    {
+    width:1024px;
+    background: #CCC;
+    height:400px;
+    margin:auto;
+}
+.menu{
+    width:960px;
+    border:none;
+    border:0px;
+    margin:auto;
+    padding:0px;
+    font: 67.5% "Lucida Sans Unicode", "Bitstream Vera Sans", "Trebuchet Unicode MS", "Lucida Grande", Verdana, Helvetica, sans-serif;
+    font-size:14px;
+    font-weight:bold;
+    }
